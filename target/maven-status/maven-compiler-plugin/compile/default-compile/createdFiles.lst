@@ -1,0 +1,5 @@
+com\emailsender\Main.class
+com\emailsender\ssl\Sender$1.class
+com\emailsender\tls\Sender.class
+com\emailsender\ssl\Sender.class
+com\emailsender\tls\Sender$1.class
